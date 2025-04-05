@@ -1342,7 +1342,7 @@ a {
 }
 .cid-uH9M3F5A0z {
   display: flex;
-  background-image: url("../../../assets/images/img-1162.webp");
+  background-image: url("../../../assets/images/dsc00141.webp");
 }
 .cid-uH9M3F5A0z .mbr-overlay {
   background-color: #000000;
@@ -1592,7 +1592,7 @@ a {
   max-width: 800px;
 }
 .cid-uH9M3FhLjn {
-  background-image: url("../../../assets/images/dsc00141.webp");
+  background-image: url("../../../assets/images/img-1162.webp");
   overflow: hidden;
 }
 .cid-uH9M3FhGVG {
@@ -1644,6 +1644,13 @@ a {
 .cid-uH9M3FhGVG .content-head {
   max-width: 800px;
 }
+.cid-uH9M3FhB7f {
+  background-image: url("../../../assets/images/dsc00036.webp");
+}
+.cid-uH9M3FhB7f .mbr-overlay {
+  background-color: #000000;
+  opacity: 0.3;
+}
 .cid-uH9M3FhB7f .mbr-fallback-image.disabled {
   display: none;
 }
@@ -1655,7 +1662,6 @@ a {
   height: 100%;
   position: absolute;
   top: 0;
-  background-image: url("../../../assets/images/background1.jpg");
 }
 .cid-uH9M3Fhh4m {
   padding-top: 5rem;
