@@ -903,7 +903,6 @@ a {
   height: 90px;
   padding: 0.5rem 0.6rem;
   flex-wrap: nowrap;
-  background: rgba(232, 206, 186, 0.8) !important;
   left: 0;
   right: 0;
   -webkit-box-pack: justify;
@@ -945,7 +944,6 @@ a {
   transition: 0.3s all !important;
   min-width: auto;
   background: #e8ceba;
-  background: rgba(232, 206, 186, 0.8) !important;
 }
 .cid-uH9M3F3HNE .nav-item:focus,
 .cid-uH9M3F3HNE .nav-link:focus {
@@ -1274,9 +1272,6 @@ a {
     padding: 1rem;
     border-radius: 1.5rem;
     background: #e8ceba;
-    opacity: 1;
-    border-color: rgba(232, 206, 186, 0.8) !important;
-    background: rgba(232, 206, 186, 0.8) !important;
     backdrop-filter: blur(8px);
   }
   .cid-uH9M3F3HNE .navbar-nav .nav-item .nav-link::after {
