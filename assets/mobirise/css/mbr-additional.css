@@ -1537,6 +1537,58 @@ a {
 .cid-uH9M3Fg9ba .content-head {
   max-width: 800px;
 }
+.cid-uHwJI55ezx {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-uHwJI55ezx .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-uHwJI55ezx .item-wrapper {
+  margin-bottom: 2rem;
+  margin-top: 2rem;
+}
+@media (max-width: 767px) {
+  .cid-uHwJI55ezx .item-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-uHwJI55ezx .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-uHwJI55ezx .mbr-iconfont {
+  display: inline-flex;
+  font-size: 2rem;
+  color: #d70081;
+  width: 80px;
+  justify-content: center;
+  align-items: center;
+  background: #ffc091;
+  height: 80px;
+  border-radius: 50%;
+}
+.cid-uHwJI55ezx .card-title,
+.cid-uHwJI55ezx .iconfont-wrapper,
+.cid-uHwJI55ezx .card-text {
+  color: #000000;
+  text-align: center;
+}
+.cid-uHwJI55ezx .content-head {
+  max-width: 800px;
+}
+.cid-uHwJI55ezx .mbr-section-title {
+  color: #000000;
+}
+.cid-uHwJI55ezx .mbr-section-btn {
+  text-align: center;
+}
 .cid-uHtS1MPRwn {
   padding-top: 6rem;
   padding-bottom: 6rem;
