@@ -1584,7 +1584,7 @@ a {
   max-width: 800px;
 }
 .cid-uHwJI55ezx .mbr-section-title {
-  color: #7b991a;
+  color: #0c2c68;
 }
 .cid-uHwJI55ezx .mbr-section-btn {
   text-align: center;
@@ -1635,7 +1635,7 @@ a {
   text-align: center;
 }
 .cid-uHtS1MPRwn .mbr-section-title {
-  color: #7b991a;
+  color: #0c2c68;
 }
 .cid-uHtS1MPRwn .mbr-text,
 .cid-uHtS1MPRwn .mbr-section-btn {
@@ -1697,14 +1697,14 @@ a {
   flex-flow: column nowrap;
 }
 .cid-uH9M3FhGVG .mbr-section-title {
-  color: #ffc091;
+  color: #0c2c68;
 }
 .cid-uH9M3FhGVG .mbr-text,
 .cid-uH9M3FhGVG .mbr-section-btn {
   color: #232323;
 }
 .cid-uH9M3FhGVG .item-title {
-  color: #ffa600;
+  color: #0c2c68;
 }
 .cid-uH9M3FhGVG .content-head {
   max-width: 800px;
@@ -1810,7 +1810,7 @@ a {
 }
 .cid-uH9M3FlJ9h .mbr-section-title {
   text-align: center;
-  color: #7b991a;
+  color: #0c2c68;
 }
 .cid-uH9M3FlJ9h .mbr-section-subtitle {
   color: #000000;
@@ -1818,47 +1818,6 @@ a {
 }
 .cid-uH9M3FlJ9h .panel-title-edit,
 .cid-uH9M3FlJ9h .mbr-iconfont {
-  color: #000000;
-}
-.cid-uH9M3Fn5jm {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-color: #ffffff;
-}
-.cid-uH9M3Fn5jm .social-row {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-wrap: wrap;
-}
-.cid-uH9M3Fn5jm .social-row .soc-item {
-  margin: 8px;
-}
-.cid-uH9M3Fn5jm .social-row .soc-item a:hover .mbr-iconfont,
-.cid-uH9M3Fn5jm .social-row .soc-item a:focus .mbr-iconfont {
-  background-color: #f7f7f7;
-}
-.cid-uH9M3Fn5jm .social-row .soc-item a .mbr-iconfont {
-  width: 72px;
-  height: 72px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  border-radius: 100%;
-  font-size: 32px;
-  background-color: #f7f7f7;
-  color: #393193;
-  transition: all 0.3s ease-in-out;
-}
-.cid-uH9M3Fn5jm .row-links {
-  width: 100%;
-  justify-content: center;
-}
-.cid-uH9M3Fn5jm .mbr-section-title {
-  color: #ffffff;
-}
-.cid-uH9M3Fn5jm .mbr-section-title,
-.cid-uH9M3Fn5jm .social-list {
   color: #000000;
 }
 .cid-uHtSr1JKwm {
@@ -1993,6 +1952,12 @@ a {
 .cid-uH9M3Fo47a {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #000000;
+  background-color: #ffc091;
   overflow: hidden;
+}
+.cid-uH9M3Fo47a .media-container-row .mbr-text {
+  color: #0c2c68;
+}
+.cid-uH9M3Fo47a .mbr-text {
+  font-size: 14px!important;
 }
