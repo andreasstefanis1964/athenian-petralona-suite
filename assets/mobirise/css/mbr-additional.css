@@ -1791,98 +1791,6 @@ a {
   position: absolute;
   top: 0;
 }
-.cid-uH9M3FlJ9h {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-color: transparent;
-}
-.cid-uH9M3FlJ9h .mbr-iconfont {
-  font-size: 1.2rem !important;
-  font-family: 'Moririse2' !important;
-  color: white;
-  transition: all 0.3s;
-  transform: rotate(180deg);
-  padding-left: 0.5rem;
-}
-.cid-uH9M3FlJ9h .panel-group {
-  border: none;
-}
-.cid-uH9M3FlJ9h .card-header {
-  padding: 0rem;
-}
-@media (max-width: 767px) {
-  .cid-uH9M3FlJ9h .card-header {
-    padding: 0rem;
-  }
-}
-.cid-uH9M3FlJ9h .panel-body {
-  padding: 0rem;
-  padding-bottom: 0.5rem;
-  margin-top: 1rem;
-}
-.cid-uH9M3FlJ9h .img-col {
-  padding: 0;
-}
-.cid-uH9M3FlJ9h .img-item {
-  height: 100%;
-}
-.cid-uH9M3FlJ9h img {
-  height: 100%;
-  object-fit: cover;
-}
-.cid-uH9M3FlJ9h .collapsed span {
-  transform: rotate(0deg);
-}
-.cid-uH9M3FlJ9h .panel-title {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-}
-.cid-uH9M3FlJ9h p {
-  margin-bottom: 0.3rem;
-}
-.cid-uH9M3FlJ9h .panel-title-edit {
-  color: #000000;
-}
-.cid-uH9M3FlJ9h .card .card-header {
-  background-color: transparent;
-  margin-bottom: 0;
-  border: 0;
-  border-radius: 2rem;
-}
-.cid-uH9M3FlJ9h .card {
-  background: #ffffff;
-  padding: 2.25rem;
-  border-radius: 2rem;
-  margin-bottom: 1rem;
-}
-@media (max-width: 767px) {
-  .cid-uH9M3FlJ9h .card {
-    padding: 2rem 1.5rem;
-    margin-bottom: 1rem;
-  }
-}
-@media (min-width: 992px) and (max-width: 1200px) {
-  .cid-uH9M3FlJ9h .card {
-    margin-bottom: 1rem;
-    padding: 2rem 1.5rem;
-  }
-}
-.cid-uH9M3FlJ9h .panel-text {
-  color: #000000;
-}
-.cid-uH9M3FlJ9h .mbr-section-title {
-  text-align: center;
-  color: #0c2c68;
-}
-.cid-uH9M3FlJ9h .mbr-section-subtitle {
-  color: #000000;
-  text-align: center;
-}
-.cid-uH9M3FlJ9h .panel-title-edit,
-.cid-uH9M3FlJ9h .mbr-iconfont {
-  color: #000000;
-}
 .cid-uHtSr1JKwm {
   padding-top: 6rem;
   padding-bottom: 6rem;
@@ -1896,6 +1804,7 @@ a {
 }
 .cid-uHtSr1JKwm .mbr-section-title {
   text-align: center;
+  color: #0c2c68;
 }
 .cid-uHtSr1JKwm .mbr-text,
 .cid-uHtSr1JKwm .mbr-section-btn {
