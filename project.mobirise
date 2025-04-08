@@ -249,7 +249,9 @@
         "#e8ceba",
         "#7b991a",
         "#c62787",
-        "#6d94de"
+        "#6d94de",
+        "#b80f75",
+        "#ea56af"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -1092,10 +1094,10 @@
             },
             ".mbr-text, .mbr-section-btn": {
               "text-align": "center",
-              "color": "#d70081"
+              "color": "#ea56af"
             },
             ".mbr-section-title": {
-              "color": "#c62787"
+              "color": "#b80f75"
             },
             ".mbr-section-subtitle": {
               "color": "#FAD02C"
