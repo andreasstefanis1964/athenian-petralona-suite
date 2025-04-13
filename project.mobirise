@@ -1104,7 +1104,7 @@
             },
             ".mbr-text, .mbr-section-btn": {
               "text-align": "center",
-              "color": "#95306d"
+              "color": "#edefeb"
             },
             ".mbr-section-title": {
               "color": "#95306d"
